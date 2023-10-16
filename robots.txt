@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jacob-hjortlund.github.io/al-folio/sitemap.xml
+Sitemap: https://jacob-hjortlund.github.io/sitemap.xml
