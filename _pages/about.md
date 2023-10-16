@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Astrophysics MSc. Student @ DARK, Niels Bohr Institute, University of Copenhagen 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,12 +16,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Live changes!
+I'm a MSc student at the [DARK section at the Niels Bohr Institute, University of Copenhagen](https://dark.nbi.ku.dk/). My current research interests are in the field of observational cosmology, with a focus on Type Ia supernovae and their use as cosmological distance indicators. My [MSc thesis](https://dark.nbi.ku.dk/) was focused on hierarchical modelling of Type Ia supernovae using a novel two-population approach to improve supernovae standardization. I'm also interested in the use of machine learning techniques for upcoming surveys such as LSST. I am part of the LSST [Dark Energy Science Collaboration (DESC)](https://lsstdesc.org/) and [Transients and Variable Stars Science Collaboration (TVS)](https://lsst-tvssc.github.io/), where I'm currently working on a novel semi-supervised probabilistic machine learning model for photometric redshift estimation.
 
-Hello world, this is a little test that text will work here.
+Previously, I was a BSc student at the University of Copenhagen, where I completed two degrees, one in [Physics](https://studier.ku.dk/bachelor/fysik/) (2017/2020) and one in [Machine Learning and Data Science](https://studier.ku.dk/bachelor/machine-learning-og-datavidenskab/) (2020/2021). During my time as a BSc student I was heavily engaged in the student community, participating in the student council and as a tutor for new undergraduate students.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+In between my Bsc and MSc degrees I worked as a machine learning engineer at the Danish medtech company [Corti AI](https://www.corti.ai/) (2021/2022), where I worked on improving in-house speech recognition models for emergency calls and cardiac arrest detection. In addition to my work on speech recognition, I also worked on automatic optimization of call-taker protocols to improve the quality of emergency calls.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In my spare time I enjoy bouldering, skateboarding, and reading. I'm also a big fan of cooking, and you'll often find me in the kitchen trying out some new fermentation project.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
